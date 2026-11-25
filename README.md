@@ -60,9 +60,14 @@ git branch -M main
 git remote add origin https://github.com/YOUR_USERNAME/abhinav-portfolio.git
 git push -u origin main
 ```
+## Live deployed link
 
+```
+https://my-portfolio-ten-blush-48.vercel.app
+```
 ## Notes
 
 - Uses Tailwind CSS 3 for a predictable, straightforward setup.
 - Includes accessible dropdowns, responsive navigation, animated glass cards, and reduced-motion support.
 - The profile image and resume are placeholders until you add your real files.
+- Used vercel's free domain to deploy the portfolio live.
