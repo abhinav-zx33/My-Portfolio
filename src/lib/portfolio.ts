@@ -49,7 +49,7 @@ export const portfolio = {
 
   ],
   softwareSkills: [
-    "Python", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Git/Github",
+    "Python", "Django", "JavaScript", "HTML5", "CSS3", "Bootstrap", "Git/Github",
     "OOPS", "DSA",
     "DBMS", "Operating Systems", "Computer Networks",
   ],
@@ -83,10 +83,10 @@ export const portfolio = {
     },
     {
       name: "StyleCLUB",
-      type: "Frontend · E-commerce concept",
+      type: "FullStack · E-commerce website",
       description:
-        "A fashion-store website concept built to practise page structure, styling, and responsive web design.",
-      stack: ["HTML", "CSS"],
+        "A full-stack fashion-store website. Currently under development...",
+      stack: ["HTML5", "CSS3" ,"Javascript","React", "Django", "Authentication", "Payment Gateway"],
       link: "",
     },
   ],
@@ -96,7 +96,7 @@ export const portfolio = {
       type: "AI · Workflow Automation",
       description:
         "A workflow concept that uses Make.com and Gemini to help extract information from internet, summarize and distribute social content across LinkedIn, Facebook, and Telegram.",
-      stack: ["Make.com", "Gemini", "Automation", "Social platforms"],
+      stack: ["Make.com", "Gemini", "APIs", "Automation", "Social platforms"],
       link: "",
     },
   ],
