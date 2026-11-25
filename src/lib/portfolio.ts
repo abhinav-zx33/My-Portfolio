@@ -86,7 +86,7 @@ export const portfolio = {
       type: "FullStack · E-commerce website",
       description:
         "A full-stack fashion-store website. Currently under development...",
-      stack: ["HTML5", "CSS3" ,"Javascript","React", "Django", "Authentication", "Payment Gateway"],
+      stack: ["HTML5", "CSS3" ,"JavaScript","React", "Django", "Authentication", "Payment Gateway"],
       link: "",
     },
   ],
